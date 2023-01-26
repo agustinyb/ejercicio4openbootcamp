@@ -1,7 +1,7 @@
 # ejercicio4openbootcamp
 ejercicio 4 de introduccion a la programacion 
                              
-                             //EJERCICIO IF//
+                                            //EJERCICIO IF//
 
 public class Main {
 
@@ -24,7 +24,7 @@ public class Main {
     }
 
 
-//EJERCICIO WHILE//
+                                             //EJERCICIO WHILE//
 
 public class Main {
 
@@ -39,7 +39,7 @@ public class Main {
     }
 
 }
-                  //EJERCICIO DOWHILE//
+                                               //EJERCICIO DOWHILE//
 
 public class Main {
     public static void main(String[] args) {
@@ -58,7 +58,7 @@ public class Main {
             }
         }
         
-        //EJERCICIO SWITCH//
+                                                 //EJERCICIO SWITCH//
 
 public class Main {
     public static void main(String[] args) {
